@@ -24,7 +24,7 @@ Crystalline materials are indispensable for the contemporary world and silicon c
 
 - K. Dadzis, A. Wintzer, I. Tsiapkinis, and S. Foroushani, Scaling and similarity of bulk crystal growth from melt, *3rd International Symposium on Modeling of Crystal Growth Processes
 and Devices (MCGPD-2023)*, Chennai / online.
-- K. Dadzis, A. Wintzer, and I. Tsiapkinis, Open source models for multiphysical simulation of crystal growth, *10th International Workshop on Modeling in Crystal Growth*, Xi'an / online. [10.13140/RG.2.2.18386.43201](http://dx.doi.org/10.13140/RG.2.2.18386.43201)
+- K. Dadzis, A. Wintzer, and I. Tsiapkinis, Open source models for multiphysical simulation of crystal growth, *10th International Workshop on Modeling in Crystal Growth* (2022), Xi'an / online. [10.13140/RG.2.2.18386.43201](http://dx.doi.org/10.13140/RG.2.2.18386.43201)
 - K. Dadzis, A. Enders-Seidlitz, and J. Pal, Validation of multi-physical models for crystal growth, *2nd International Symposium on Modeling of Crystal Growth Processes and Devices (MCGPD-2021)*, Chennai / online. [10.13140/RG.2.2.24526.38727](http://dx.doi.org/10.13140/RG.2.2.24526.38727)
 - A. Enders-Seidlitz, and K. Dadzis, pyelmer - Python interface for Elmer workflow, *Elmer webinar series* (2021), online. [10.13140/RG.2.2.16137.98407](http://dx.doi.org/10.13140/RG.2.2.16137.98407)
 
