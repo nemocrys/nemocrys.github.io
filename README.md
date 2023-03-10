@@ -10,7 +10,7 @@ Crystalline materials are indispensable for the contemporary world and silicon c
 
 - [Kaspars Dadzis](https://www.researchgate.net/profile/Kaspars-Dadzis) (principal investigator)
 - [Sepehr Foroushani](https://www.researchgate.net/profile/Sepehr-Foroushani) (senior scientist)
-- [Arved Wintzer, né Enders-Seidlitz](https://www.researchgate.net/profile/Arved-Wintzer) (PhD student)
+- [Arved Wintzer, formerly Enders-Seidlitz](https://www.researchgate.net/profile/Arved-Wintzer) (PhD student)
 - [Iason Tsiapkinis](https://www.researchgate.net/profile/Iason-Tsiapkinis) (PhD student)
 
 ## List of publications
