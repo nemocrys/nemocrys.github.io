@@ -34,6 +34,7 @@ and Devices (MCGPD-2023)*, Chennai / online.
 - S. Foroushani, A. Wintzer, I. Tsiapkinis, and K. Dadzis, In situ emissivity measurements in crystal growth processes, *Deutsche Gesellschaft für Kristallzüchtung und Kristallwachstum (DGKK) Arbeitskreistreffen* (2022), Freiberg. [10.13140/RG.2.2.23057.51049](http://dx.doi.org/10.13140/RG.2.2.23057.51049)
 - I. Tsiapkinis, A. Wintzer, K. Dadzis, PIV measurements of gas convection in crystal growth processes, *The 14th European Fluid Mechanics Conference* (2022), Athens. [10.13140/RG.2.2.10867.81447](http://dx.doi.org/10.13140/RG.2.2.10867.81447)
 - K. Dadzis, A. Wintzer, I. Tsiapkinis, and M. Schröder, Open source software for crystal growth simulation, *7th European Conference on Crystal Growth* (2022), Paris. [10.13140/RG.2.2.11675.54566](http://dx.doi.org/10.13140/RG.2.2.11675.54566)
+- A. Enders-Seidlitz, I. Tsiapkinis, and K. Dadzis, Splash Talk: Object-oriented meshing for complex geometries using blockMesh and Gmsh, *The 17th OpenFOAM Workshop* (2022), Cambridge / online. [10.13140/RG.2.2.35194.77767](http://dx.doi.org/10.13140/RG.2.2.35194.77767)
 - I. Tsiapkinis, A. Enders-Seidlitz, and K. Dadzis, Multiphysics simulation of electromagnetics, heat transfer and free surface shape for crystal growth applications, *The 17th OpenFOAM Workshop* (2022), Cambridge / online. [10.13140/RG.2.2.21773.00484](http://dx.doi.org/10.13140/RG.2.2.21773.00484)
 - I. Tsiapkinis, A. Enders-Seidlitz, K. Dadzis, Modeling of Inductively Heated Floating Zone Process Using OpenFOAM, *12th International PAMIR Conference* (2022), Krakow. [10.13140/RG.2.2.28483.89121](http://dx.doi.org/10.13140/RG.2.2.28483.89121)
 - A. Enders-Seidlitz, I. Tsiapkinis, and K. Dadzis, Coupled heat transfer and gas flow simulation in Czochralski crystal growth, *ECCOMAS CONGRESS 2022*, Oslo. [10.13140/RG.2.2.30457.54882/1](http://dx.doi.org/10.13140/RG.2.2.30457.54882/1)
@@ -54,11 +55,7 @@ and Devices (MCGPD-2023)*, Chennai / online.
 - K. Dadzis, A. Enders-Seidlitz, and I. Tsiapkinis, Self-learning crystal growth furnaces: perspective for artificial intelligence technologies, *8th International Workshop on Crystal Growth Technology* (2022), Berlin. [10.13140/RG.2.2.29291.62249](http://dx.doi.org/10.13140/RG.2.2.29291.62249)
 - A. Enders-Seidlitz, J. Pal, and K. Dadzis, Next generation of models for Czochralski growth simulation, *Seminar of the young Crystal Growers (jDGKK)* (2021), Berlin.
 
-### Miscellaneous
-
-- A. Enders-Seidlitz, I. Tsiapkinis, and K. Dadzis, Splash Talk: Object-oriented meshing for complex geometries using blockMesh and Gmsh, *The 17th OpenFOAM Workshop* (2022), Cambridge / online. [10.13140/RG.2.2.35194.77767](http://dx.doi.org/10.13140/RG.2.2.35194.77767)
-
-## Open source software
+### Open source software
 
 - [multilog - Measurement data recording and visualization using various devices.](https://github.com/nemocrys/multilog)
 - [opecgs - Open source crystal growth simulations.](https://github.com/nemocrys/opencgs)
