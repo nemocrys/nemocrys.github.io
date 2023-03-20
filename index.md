@@ -27,7 +27,7 @@ and Devices (MCGPD-2023)*, Chennai / online.
 
 ### Contributed talks
 
-- S. Foroushani, A. Wintzer and K. Dadzis, Heating efficiency and energy saving potential of a model crystal growth furnace, *Deutsche Kristallzüchtungstagung  (DKT)* (2023), Augsburg.
+- S. Foroushani, A. Wintzer and K. Dadzis, Heating efficiency and energy saving potential of a model crystal growth furnace, *Deutsche Kristallzüchtungstagung  (DKT)* (2023), Augsburg. [10.13140/RG.2.2.30252.13442](http://dx.doi.org/10.13140/RG.2.2.30252.13442)
 - K. Dadzis, A. Wintzer, I. Tsiapkinis, and S. Foroushani, Multiphysical model experiments for crystal growth, *Deutsche Gesellschaft für Kristallzüchtung und Kristallwachstum (DGKK) Arbeitskreistreffen* (2022), Freiberg.
 - S. Foroushani, A. Wintzer, I. Tsiapkinis, and K. Dadzis, In situ emissivity measurements in crystal growth processes, *Deutsche Gesellschaft für Kristallzüchtung und Kristallwachstum (DGKK) Arbeitskreistreffen* (2022), Freiberg. [10.13140/RG.2.2.23057.51049](http://dx.doi.org/10.13140/RG.2.2.23057.51049)
 - I. Tsiapkinis, A. Wintzer, K. Dadzis, PIV measurements of gas convection in crystal growth processes, *The 14th European Fluid Mechanics Conference* (2022), Athens. [10.13140/RG.2.2.10867.81447](http://dx.doi.org/10.13140/RG.2.2.10867.81447)
