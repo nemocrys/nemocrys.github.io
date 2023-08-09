@@ -18,7 +18,7 @@ Crystalline materials are indispensable for the contemporary world and silicon c
 - A. Enders-Seidlitz, J. Pal, and K. Dadzis, Model experiments for Czochralski crystal growth processes using inductive and resistive heating *IOP Conference Series: Materials Science and Engineering*, 1223 (2022) 012003. [https://doi.org/10.1088/1757-899X/1223/1/012003](https://doi.org/10.1088/1757-899X/1223/1/012003).
 
 ### Refereed conferenc papers
-- S. Foroushani, A. Wintzer, and K. Dadzis, In-situ measurement of emissivity in crystal growth furnaces *International Heat Transfer Conference*, IHTC17, Capr Town, South Africa, Paper 545 (2023). 
+- S. Foroushani, A. Wintzer, and K. Dadzis, In-situ measurement of emissivity in crystal growth furnaces *International Heat Transfer Conference (IHTC17)*, Cape Town, South Africa, Paper 545 (2023). 
 
 
 ### Invited talks
