@@ -17,7 +17,7 @@ Crystalline materials are indispensable for the contemporary world and silicon c
 
 ## Software gallery
 
-See the gallery [here]((https://nemocrys.github.io/software/software.html)) and more on our GitHub page [https://github.com/nemocrys](https://github.com/nemocrys)
+See the gallery [here](https://nemocrys.github.io/software/software.html) and more on our GitHub page [https://github.com/nemocrys](https://github.com/nemocrys)
 
 ## Acknowledgements
 
