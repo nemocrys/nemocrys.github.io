@@ -12,8 +12,8 @@ Crystalline materials are indispensable for the contemporary world and silicon c
 
 ## List of publications
 
-- Papers [Link](https://nemocrys.github.io/papers/papers.html)
-- Conferences [Link](https://nemocrys.github.io/conferences/conferences.html)
+- [Papers](https://nemocrys.github.io/papers/papers.html)
+- [Conferences](https://nemocrys.github.io/conferences/conferences.html)
 
 ### Open source software
 
