@@ -19,6 +19,10 @@ Crystalline materials are indispensable for the contemporary world and silicon c
 
 See the gallery [here](https://nemocrys.github.io/software/software.html) and more on our GitHub page [https://github.com/nemocrys](https://github.com/nemocrys)
 
+## News
+
+24/05/2023: New project started: [Hands-on Materials Science for Education](https://poc-handsome.github.io/)
+
 ## Acknowledgements
 
 This project has received funding from the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No 851768).
