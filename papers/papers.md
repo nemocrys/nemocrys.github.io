@@ -3,12 +3,17 @@
 
 ## List of publications
 
-### Journal articles
+### Journal articles (first authors)
+- S. Foroushani, A. Wintzer, F.-M. Kiessling, K. Dadzis, Heating efficiency and energy saving potential of Czochralski crystal growth furnaces, submitted to *Journal of Crystal Growth*. Preprint: [Link](https://nemocrys.github.io/papers/preprint_energy.pdf)
+- A. Wintzer, I. Tsiapkinis, S. Püschel, C. Guguschev, K. Dadzis, Validation of a numerical model for Czochralski growth of cesium iodide and calcium fluoride, submitted to *Journal of Crystal Growth*. Preprint: [10.2139/ssrn.5113806](ttp://dx.doi.org/10.2139/ssrn.5113806)
+- A. Wintzer, B. E. Abali, K. Dadzis, Multiphysics simulation of crystal growth with moving boundaries in FEniCS, *Computer Methods in Applied Mechanics and Engineering* 437 (2025) 117783. [10.1016/j.cma.2025.117783](https://doi.org/10.1016/j.cma.2025.117783)
 - I. Tsiapkinis, A. Wintzer, K. Dadzis, Validation of 3D and 2D thermal and electromagnetic models for high-frequency induction heating in crystal growth processes, *Journal of Crystal Growth* 643 (2024) 127800. [10.1016/j.jcrysgro.2024.127800](https://doi.org/10.1016/j.jcrysgro.2024.127800)
 - A. Enders-Seidlitz, J. Pal, K. Dadzis, Development and validation of a thermal simulation for the Czochralski crystal growth process using model experiments, *Journal of Crystal Growth* 593 (2022) 126750. [10.1016/j.jcrysgro.2022.126750](https://doi.org/10.1016/j.jcrysgro.2022.126750).
 - A. Enders-Seidlitz, J. Pal, K. Dadzis, Model experiments for Czochralski crystal growth processes using inductive and resistive heating, *IOP Conference Series: Materials Science and Engineering* 1223 (2022) 012003. [10.1088/1757-899X/1223/1/012003](https://doi.org/10.1088/1757-899X/1223/1/012003).
 
-### Journal articles from cooperations
+### Journal articles (cooperations)
+- I. Grants, J. Pal, I. Tsiapkinis, S. Eckert, G. Gerbeth, D. Raebiger, K. Dadzis, Flow instability caused by temperature boundary conditions in a model of Czochralski crystal growth, *Physics of Fluids*  37, (2025) 024106. [10.1063/5.0250371](https://doi.org/10.1063/5.0250371)
+- C. Guguschev, C. Hirschle, K. Dadzis, A. Kwasniewski, M. Schulze, L. Schellkopf, C. Richter, *Journal of Applied Crystallography* 57 (2024) 734-740. [10.1107/S1600576724003509](https://doi.org/10.1107/S1600576724003509)
 - L. Vieira, I. Buchovska, I. Tsiapkinis, A. Wintzer, K. Dadzis, R. Menzel, Simulation of crucible-free growth of monocrystalline silicon fibres for mirror suspension in gravitational-wave detectors, *Journal of Crystal Growth* 629 (2024), 127549. [10.1016/j.jcrysgro.2023.127549](https://doi.org/10.1016/j.jcrysgro.2023.127549)
 - W. Miller, A. Sabanskis, A. Gybin, K.-P. Gradwohl, A. Wintzer, K. Dadzis, J. Virbulis, R. Sumathi, A coupled spproach to compute the dislocation density development during Czochralski growth and its application to the growth of high-purity germanium (HPGe), *Crystals* 13 (2023) 1440. [10.3390/cryst13101440](https://doi.org/10.3390/cryst13101440)
 - A. Sabanskis, K. Dadzis, K.-P. Gradwohl, A. Wintzer, W. Miller, U. Juda, R. R. Sumathi, J. Virbulis, Parametric numerical study of dislocation density distribution in Czochralski-grown germanium crystals, *Journal of Crystal Growth* 622 (2023), 127384. [10.1016/j.jcrysgro.2023.127384](https://doi.org/10.1016/j.jcrysgro.2023.127384) / [Online version](https://www.researchgate.net/publication/373029391_Parametric_numerical_study_of_dislocation_density_distribution_in_Czochralski-grown_germanium_crystals)
