@@ -5,7 +5,7 @@
 
 ### Journal articles (first authors)
 - S. Foroushani, A. Wintzer, F.-M. Kiessling, K. Dadzis, Heating efficiency and energy saving potential of Czochralski crystal growth furnaces, submitted to *Journal of Crystal Growth*. Preprint: [Link](https://nemocrys.github.io/papers/preprint_energy.pdf)
-- A. Wintzer, I. Tsiapkinis, S. Püschel, C. Guguschev, K. Dadzis, Validation of a numerical model for Czochralski growth of cesium iodide and calcium fluoride, submitted to *Journal of Crystal Growth*. Preprint: [10.2139/ssrn.5113806](ttp://dx.doi.org/10.2139/ssrn.5113806)
+- A. Wintzer, I. Tsiapkinis, S. Püschel, C. Guguschev, K. Dadzis, Validation of a numerical model for Czochralski growth of cesium iodide and calcium fluoride, submitted to *Journal of Crystal Growth*. Preprint: [10.2139/ssrn.5113806](http://dx.doi.org/10.2139/ssrn.5113806)
 - A. Wintzer, B. E. Abali, K. Dadzis, Multiphysics simulation of crystal growth with moving boundaries in FEniCS, *Computer Methods in Applied Mechanics and Engineering* 437 (2025) 117783. [10.1016/j.cma.2025.117783](https://doi.org/10.1016/j.cma.2025.117783)
 - I. Tsiapkinis, A. Wintzer, K. Dadzis, Validation of 3D and 2D thermal and electromagnetic models for high-frequency induction heating in crystal growth processes, *Journal of Crystal Growth* 643 (2024) 127800. [10.1016/j.jcrysgro.2024.127800](https://doi.org/10.1016/j.jcrysgro.2024.127800)
 - A. Enders-Seidlitz, J. Pal, K. Dadzis, Development and validation of a thermal simulation for the Czochralski crystal growth process using model experiments, *Journal of Crystal Growth* 593 (2022) 126750. [10.1016/j.jcrysgro.2022.126750](https://doi.org/10.1016/j.jcrysgro.2022.126750).
