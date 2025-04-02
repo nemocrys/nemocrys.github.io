@@ -5,6 +5,9 @@
 
 ### Invited talks
 
+- K. Dadzis, A. Wintzer, I. Tsiapkinis, New validated open-source models for multi-physical simulation of bulk crystal growth, *11th International Workshop on Modeling in Crystal Growth (IWMCG-11)*, (2024) Timisoara. [10.13140/RG.2.2.15200.90883](http://dx.doi.org/10.13140/RG.2.2.15200.90883) 
+- K. Dadzis, From the growth furnace to a validated virtual model, *1st International School on Modelling in Crystal Growth (ISMCG-1)*, (2024) Timisoara. [10.13140/RG.2.2.17717.49127](http://dx.doi.org/10.13140/RG.2.2.17717.49127)
+- K. Dadzis, Multi-physical modeling of bulk crystal growth: from furnace design to defect engineering, *20th Conference on Gettering and Defect Engineering in Semiconductor Technology (GADEST 2024)*, Bad Schandau. [10.13140/RG.2.2.31978.12483](http://dx.doi.org/10.13140/RG.2.2.31978.12483)
 - K. Dadzis, A. Wintzer, I. Tsiapkinis, S. Foroushani, Multiphysical model experiments for crystal growth from melt, *9th International Scientific Colloquium "Modelling for Materials Processing"* (2023), Riga. [10.13140/RG.2.2.22158.95040](http://dx.doi.org/10.13140/RG.2.2.22158.95040)
 - K. Dadzis, A. Wintzer, I. Tsiapkinis, S. Foroushani, Scaling and similarity of bulk crystal growth from melt, *3rd International Symposium on Modeling of Crystal Growth Processes
 and Devices*, (2023) Chennai / online. [10.13140/RG.2.2.15448.06404](http://dx.doi.org/10.13140/RG.2.2.15448.06404)
@@ -16,6 +19,10 @@ and Devices*, (2023) Chennai / online. [10.13140/RG.2.2.15448.06404](http://dx.d
 
 ### Contributed talks
 
+- N. Sagias, K. Dadzis, Numerical modeling of furnace design and thermal stresses in the crystal for Czochralski growth of oxides and halides, *DGKK-Arbeitskreis Herstellung und Charakterisierung von massiven Halbleiterkristallen*, (2024), Berlin. [10.13140/RG.2.2.35333.56800](http://dx.doi.org/10.13140/RG.2.2.35333.56800)
+- I. Tsiapkinis, K. Dadzis, Multiphysical numerical and physical modeling of the Floating Zone process, *11th International Workshop on Modeling in Crystal Growth (IWMCG-11)*, (2024) Timisoara. [10.13140/RG.2.2.21911.79529](http://dx.doi.org/10.13140/RG.2.2.21911.79529)
+- I. Tsiapkinis, K. Dadzis, Melt flow measurements in model experiments for crystal growth, *4th International Workshop on Measuring Techniques for Liquid Metal Flows (MTLM2024)*, Dresden. [10.13140/RG.2.2.18556.35201](http://dx.doi.org/10.13140/RG.2.2.18556.35201)
+- I. Tsiapkinis, A. Wintzer, K. Dadzis, Physical and numerical modeling of the Floating-Zone Process, *53. Deutsche Kristallzüchtungstagung (DKT2024)*, Erlangen. [10.13140/RG.2.2.29146.96964](http://dx.doi.org/10.13140/RG.2.2.29146.96964)
 - S. Foroushani, I. Tsiapkinis, A. Wintzer, K. Dadzis, Measurement and simulation of 3D electromagnetic fields for novel crystal growth techniques, *Deutsche Gesellschaft für Kristallzüchtung und Kristallwachstum (DGKK) Arbeitskreistreffen* (2023), Freiberg [10.13140/RG.2.2.33890.91841](http://dx.doi.org/10.13140/RG.2.2.33890.91841)
 - K. Dadzis, A. Sabanskis, A. Wintzer, C. Guguschev, J. Virbulis, Simulation of stresses and dislocations during growth of oxide and halide crystals from the melt, *12th German-French Workshop on Oxides, Dielectrics, and Laser Crystals* (2023), Berlin. [10.13140/RG.2.2.35580.72321](http://dx.doi.org/10.13140/RG.2.2.35580.72321)
 - I. Tsiapkinis, A. Wintzer, S. Foroushani, K. Dadzis, Validation of high-frequency electromagnetic models for crystal growth applications, *9th International Scientific Colloquium "Modelling for Materials Processing"* (2023), Riga. [10.13140/RG.2.2.30648.52486](http://dx.doi.org/10.13140/RG.2.2.30648.52486)
@@ -42,6 +49,7 @@ and Devices*, (2023) Chennai / online. [10.13140/RG.2.2.15448.06404](http://dx.d
 
 ### Poster presentations
 
+- I. Tsiapkinis, K. Dadzis, Melt flow measurements in model experiments for crystal growth, *12th Annual jDGKK Meeting*, (2024) Erlangen. [10.13140/RG.2.2.32502.41289](http://dx.doi.org/10.13140/RG.2.2.32502.41289)
 - I. Tsiapkinis, A. Wintzer, S. Foroushani, K. Dadzis, Ultrasonic Doppler Velocimetry for melt flow in model experiments for Czochralski crystal growth, *9th International Scientific Colloquium "Modelling for Materials Processing"* (2023), Riga. [10.13140/RG.2.2.13871.30887](http://dx.doi.org/10.13140/RG.2.2.13871.30887)
 - A. Wintzer, I. Tsiapkinis, S. Foroushani, K. Dadzis, Next generation multiphysical models for crystal growth processes, *2nd Joint Meeting of the “Young Crystallographers“ (DGK) and the “Young Crystal Growers” (DGKK)* (2022), Freiberg.
 - K. Dadzis, A. Enders-Seidlitz, I. Tsiapkinis, Self-learning crystal growth furnaces: perspective for artificial intelligence technologies, *8th International Workshop on Crystal Growth Technology* (2022), Berlin. [10.13140/RG.2.2.29291.62249](http://dx.doi.org/10.13140/RG.2.2.29291.62249)
