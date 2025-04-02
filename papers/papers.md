@@ -21,10 +21,13 @@
 - K. Surovovs, M. Surovovs, A. Sabanskis, J. Virbulis, K. Dadzis, R. Menzel, N. Abrosimov, Numerical simulation of species segregation and 2D distribution in the Floating Zone silicon crystals, *Crystals* 12 (2022) 1718. [10.3390/cryst12121718](https://doi.org/10.3390/cryst12121718)
 - F. Bürkle, M. Förste, K. Dadzis, I. Tsiapkinis, O. Pätzold, A. Charitos, M. Dues, J. Czarske, L. Büttner, Application of optical velocity measurements including a novel calibration technique for micron-resolution to investigate the gas flow in a model experiment for crystal growth, *Flow Measurement and Instrumentation*  88 (2022), 102258. [10.1016/j.flowmeasinst.2022.102258](https://doi.org/10.1016/j.flowmeasinst.2022.102258) / [Online version](https://www.researchgate.net/publication/364611814_Application_of_optical_velocity_measurements_including_a_novel_calibration_technique_for_micron-resolution_to_investigate_the_gas_flow_in_a_model_experiment_for_crystal_growth)
 
-### Other publications
-- V. Funke, Automation of a model system for crystal growth with induction heating based on Python and Raspberry Pi, Master's thesis, HTW Berlin, 2024. [Online version (in German)](https://nemocrys.github.io/papers/Masterarbeit_Vincent_Funke_ohneUS_Logo.pdf)
+### PhD theses
 - A. Wintzer, Validation of multiphysical models for Czochralski crystal growth, PhD thesis, TU Berlin, 2024. [Online version](https://doi.org/10.14279/depositonce-20957)
-- S. Foroushani, A. Wintzer, K. Dadzis, In-situ measurement of emissivity in crystal growth furnaces, Proceedings of *International Heat Transfer Conference (IHTC17)*, Cape Town, South Africa, Paper 545 (2023). [Online version](https://www.researchgate.net/publication/376687870_IN-SITU_MEASUREMENT_OF_EMISSIVITY_IN_CRYSTAL_GROWTH_FURNACES)
-- K. Dadzis, Czochralski growth of tin crystals as a multi-physical model experiment, 2023, Preprint on arXiv. [10.48550/arXiv.2305.06875](http://arxiv.org/abs/2305.06875)
+
+### Bachelor's and Master's theses
+- V. Funke, Automation of a model system for crystal growth with induction heating based on Python and Raspberry Pi, Master's thesis, HTW Berlin, 2024. [Online version (in German)](https://nemocrys.github.io/papers/Masterarbeit_Vincent_Funke_ohneUS_Logo.pdf)
 - V. Funke, Resistive and inductive heating in a crystal growth furnace: automation using Python and measurements of electromagnetic parameters, Bachelor's thesis, HTW Berlin, 2022. [Online version (in German)](https://nemocrys.github.io/papers/Bachelorarbeit_Vincent_Funke_ohneUS_Logo.pdf)
 
+### Other publications
+- S. Foroushani, A. Wintzer, K. Dadzis, In-situ measurement of emissivity in crystal growth furnaces, Proceedings of *International Heat Transfer Conference (IHTC17)*, Cape Town, South Africa, Paper 545 (2023). [Online version](https://www.researchgate.net/publication/376687870_IN-SITU_MEASUREMENT_OF_EMISSIVITY_IN_CRYSTAL_GROWTH_FURNACES)
+- K. Dadzis, Czochralski growth of tin crystals as a multi-physical model experiment, 2023, Preprint on arXiv. [10.48550/arXiv.2305.06875](http://arxiv.org/abs/2305.06875)
