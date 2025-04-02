@@ -6,9 +6,16 @@ Crystalline materials are indispensable for the contemporary world and silicon c
 ## Team members
 
 - Kaspars Dadzis (principal investigator) [ResearchGate](https://www.researchgate.net/profile/Kaspars-Dadzis) / [ORCID](https://orcid.org/0000-0002-0126-7343)
-- Sepehr Foroushani (senior scientist) [ResearchGate](https://www.researchgate.net/profile/Sepehr-Foroushani) / [ORCID](https://orcid.org/0000-0002-9969-2689) / [LinkedIn](https://www.linkedin.com/in/sforoushani/)
-- Arved Wintzer, formerly Enders-Seidlitz (PhD student) [ResearchGate](https://www.researchgate.net/profile/Arved-Wintzer) / [ORCID](https://orcid.org/0000-0002-1458-7872) / [LinkedIn](https://www.linkedin.com/in/arved-wintzer-465830176/)
-- Iason Tsiapkinis (PhD student) [ResearchGate](https://www.researchgate.net/profile/Iason-Tsiapkinis) / [ORCID](https://orcid.org/0000-0002-2934-1904)
+- Dr. Felix Kannemann [ResearchGate](https://www.researchgate.net/profile/Felix-Kannemann)
+- Nikolaos Sagias [ResearchGate](https://www.researchgate.net/profile/Nikolaos-Sagias)
+- Iason Tsiapkinis [ResearchGate](https://www.researchgate.net/profile/Iason-Tsiapkinis) / [ORCID](https://orcid.org/0000-0002-2934-1904)
+
+# Formerly
+
+- Dr. Arved Wintzer, formerly Enders-Seidlitz [ResearchGate](https://www.researchgate.net/profile/Arved-Wintzer) / [ORCID](https://orcid.org/0000-0002-1458-7872) / [LinkedIn](https://www.linkedin.com/in/arved-wintzer-465830176/)
+- Dr. Sepehr Foroushani [ResearchGate](https://www.researchgate.net/profile/Sepehr-Foroushani) / [ORCID](https://orcid.org/0000-0002-9969-2689) / [LinkedIn](https://www.linkedin.com/in/sforoushani/)
+- Dr. Josef Pal [ResearchGate](https://www.researchgate.net/profile/Josef-Pal) 
+
 
 ## List of publications
 
