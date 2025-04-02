@@ -29,7 +29,7 @@
 
 - [VIFCON](https://github.com/nemocrys/vifcon) - Visual Furnace Control)
 
-<img src="https://github.com/nemocrys/vifcon/blob/main/Bilder/GUI_S_En.png" height="300">
+<img src="https://raw.githubusercontent.com/nemocrys/vifcon/master/Bilder/GUI_S_En.png" height="300">
 
 - [multilog](https://github.com/nemocrys/multilog) - Measurement data recording and visualization using various devices
 
