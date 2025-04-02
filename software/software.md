@@ -27,11 +27,19 @@
 
 ### Measurements
 
+- [VIFCON](https://github.com/nemocrys/vifcon) - Visual Furnace Control)
+
+<img src="https://github.com/nemocrys/vifcon/blob/main/Bilder/GUI_S_En.png" height="300">
+
 - [multilog](https://github.com/nemocrys/multilog) - Measurement data recording and visualization using various devices
 
 <img src="https://raw.githubusercontent.com/nemocrys/multilog/master/multilog.png" height="300">
 
 - [emissivity-adjustment](https://github.com/nemocrys/emissivity-adjustment) - Adjustment of emissivities in radiation-based temperature measurement
+
+- [exp-B-control](https://github.com/nemocrys/exp-B-control) - Control software for measurement devices to analyze magnetic field, power and other electromagnetic parameters
+
+- [exp-T-control](https://github.com/nemocrys/exp-T-control) and [exp-T-control-v2](https://github.com/nemocrys/exp-T-control-v2) - Scripts for controlling heating devices and temperature sensors
 
 ### Miscellaneous
 
