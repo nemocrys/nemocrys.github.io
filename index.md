@@ -5,7 +5,7 @@ Crystalline materials are indispensable for the contemporary world and silicon c
 
 ## Team members
 
-- Kaspars Dadzis (principal investigator) [ResearchGate](https://www.researchgate.net/profile/Kaspars-Dadzis) / [ORCID](https://orcid.org/0000-0002-0126-7343)
+- Dr. Kaspars Dadzis (principal investigator) [ResearchGate](https://www.researchgate.net/profile/Kaspars-Dadzis) / [ORCID](https://orcid.org/0000-0002-0126-7343)
 - Dr. Felix Kannemann [ResearchGate](https://www.researchgate.net/profile/Felix-Kannemann)
 - Nikolaos Sagias [ResearchGate](https://www.researchgate.net/profile/Nikolaos-Sagias)
 - Iason Tsiapkinis [ResearchGate](https://www.researchgate.net/profile/Iason-Tsiapkinis) / [ORCID](https://orcid.org/0000-0002-2934-1904)
