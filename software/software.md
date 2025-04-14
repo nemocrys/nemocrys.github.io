@@ -17,6 +17,8 @@
 
 <img src="https://raw.githubusercontent.com/nemocrys/elmer-verification/master/induction_heating_2D/mesh.png" height="300"> <img src="https://raw.githubusercontent.com/nemocrys/elmer-verification/master/heat_conduction_radiation_2D/geometry-mesh.png" height="300">
 
+- [crystal-x](https://github.com/nemocrys/crystal-x) - A steady-state simulation for the Czochralski method using the finite element library dolfinx 
+
 ### Numerical simulation: utilities
 
 - [opecgs](https://github.com/nemocrys/opencgs) - Open source crystal growth simulations
@@ -40,6 +42,14 @@
 - [exp-B-control](https://github.com/nemocrys/exp-B-control) - Control software for measurement devices to analyze magnetic field, power and other electromagnetic parameters
 
 - [exp-T-control](https://github.com/nemocrys/exp-T-control) and [exp-T-control-v2](https://github.com/nemocrys/exp-T-control-v2) - Scripts for controlling heating devices and temperature sensors
+
+- [meas-temperature-calibration](https://github.com/nemocrys/meas-temperature-calibration) and [jupiter-calibrator](https://github.com/nemocrys/jupiter-calibrator) - Scripts for controlling a calibrator of temperature sensors
+
+- [meas-electric-conductivity](https://github.com/nemocrys/meas-electric-conductivity) - Scripts to measure specific resistance with a 4-point-probe
+
+- [emissivity-measurement](https://github.com/nemocrys/emissivity-measurement) - Scripts for setup of emissivity measurement using pyrometers
+
+- [exp-motor-control](https://github.com/nemocrys/exp-motor-control) - Motor control using Arduino 
 
 ### Miscellaneous
 
